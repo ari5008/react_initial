@@ -1,16 +1,12 @@
-# Ticket
-
+### Ticket
 - issures番号
 
-# What
-
+### What
 - 実装内容
-  
+  - 実装内容詳細1
 
-# Why
-
+### Why
 - 実装背景
 
-# Check
-
+## Check
 - [ ] 最終確認
